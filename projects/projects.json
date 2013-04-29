@@ -1342,7 +1342,7 @@
         "Productivity",
         "Mobile",
         "Angular-Seed",
-        "Local Storage", 
+        "Local Storage",
         "Bootstrap",
         "Node.js",
         "BigCouch",
@@ -1505,6 +1505,27 @@
         "Local Storage",
         "CSS3",
         "Mobile",
+        "jQuery"
+      ]
+    },
+    {
+      "name": "SlideCaptain",
+      "thumb": "slidecaptain/thumb.png",
+      "desc": "SlideCaptain helps you creating and sharing online presentations with ease.",
+      "url": "http://www.slidecaptain.com/",
+      "submitter": "gjungb",
+      "submissionDate": "2013-04-29",
+      "tags": [
+        "Production",
+        "Productivity",
+        "Responsive",
+        "Animations",
+        "Local Storage",
+        "HTML5",
+        "CSS3",
+        "WYSIWYG",
+        "Drag and Drop",
+        "Bootstrap",
         "jQuery"
       ]
     }
